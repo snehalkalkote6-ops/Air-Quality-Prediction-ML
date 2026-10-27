@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Generated model/data artifacts (upload only if intentionally needed)
+air_quality_model.pkl
+model_comparison.csv
+
+# Local dataset copies
+AirQualityUCI.csv
+AirQualityUCI.xlsx

@@ -49,7 +49,7 @@ The notebook selects the model with the lowest RMSE on the test subset. Record t
 
 ```text
 Air-Quality-Prediction/
-├── Air\_Quality\_Prediction\_Documented.ipynb
+├── Air\_Quality\_Prediction.ipynb
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -59,7 +59,7 @@ Air-Quality-Prediction/
 
 ### Option A — Google Colab (recommended)
 
-1. Download `Air\_Quality\_Prediction\_Documented.ipynb` from this repository.
+1. Download `Air\_Quality\_Prediction\_.ipynb` from this repository.
 2. Open [Google Colab](https://colab.research.google.com/).
 3. Select **File → Upload notebook** and upload the notebook.
 4. Download the dataset from the [UCI dataset page](https://archive.ics.uci.edu/dataset/360/air+quality).
